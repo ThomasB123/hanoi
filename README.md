@@ -1,1 +1,1 @@
-# hanoi
+# Towers of Hanoi
